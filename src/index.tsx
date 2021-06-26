@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-import './services/firabse'
+import './services/firabse';
+import './styles/global.scss';
 
 ReactDOM.render(
   <React.StrictMode>
